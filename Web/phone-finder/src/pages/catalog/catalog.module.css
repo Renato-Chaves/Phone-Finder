@@ -1,0 +1,17 @@
+.catalog_body{
+    background-color: #EAEAEA;
+    height: calc(100vh - 80px);
+    overflow-y: auto;
+}
+
+.catalog_grid{
+}
+
+.catalog_showMoreBtn{
+    outline: none;
+    border-width: 1px;
+    border-color: #A6A6A6;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #FDFDFD;
+}

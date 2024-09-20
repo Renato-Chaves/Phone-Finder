@@ -1,0 +1,19 @@
+.brandItem{
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    width: auto;
+    font-size: 85%;
+    font-weight: 650;
+    margin: 3px;
+    border: none;
+}
+
+.ellipisis{
+    font-weight: bold;
+    color: #D9D9D9;
+}
+
+.sidebar{
+    border: none;
+    height: 15px;
+}

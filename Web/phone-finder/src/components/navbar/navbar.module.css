@@ -1,0 +1,51 @@
+.navbar_container{
+    height: 90px;
+    align-content: center;
+}
+
+.navbar_main{
+    height: 60%;
+    width: 100%;
+    background-color: #20228C;
+    border-width: 0 0 1px 0;
+    border-color: white;
+    border-style: solid;
+    border-image: linear-gradient(
+      to left, 
+      rgba(0, 0, 0, 0),
+      rgb(188, 213, 255), 
+      rgba(0, 0, 0, 0)
+    ) 1 100% 1;
+    border-image-slice: 1
+}
+
+.navbar_footer{
+    height: 40%;
+    width: 100%;
+    background-color: #202288;
+}
+
+.navbar_searchBar{
+    width: 25vw;
+    height: 100%;
+    outline: none;
+    border-style: none;
+    background-color: #BFC0E6;
+    font-weight: bold;
+    color: black;
+    border-radius: 10px 0 0 10px;
+}
+
+.navbar_searchBtn{
+    height: 100%;
+    font-weight: bold;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #0E6DFE;
+    border-radius: 0 10px 10px 0;
+}
+
+.navbar_link{
+    color: white;
+
+}
